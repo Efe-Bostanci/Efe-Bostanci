@@ -8,7 +8,7 @@ From custom PCBs and 3D-printed aircraft to solo-built SaaS products. Long-term 
 
 ## 🛠️ What I'm Working On
 
-- **[Councily.ai](https://github.com/Efe-Bostanci/councily-showcase)** Multi-agent AI council platform (solo, full-stack)
+- **[Councily.app](https://github.com/Efe-Bostanci/councily-showcase)** Multi-agent AI council platform (solo, full-stack)
 - **[FlashMesh](https://github.com/Efe-Bostanci/flashmesh-website)** Offline Bluetooth/Wi-Fi mesh communication for disaster scenarios
 - **[Promptiy](https://github.com/Efe-Bostanci/promptiy-showcase)**
 - **[NeedThisApp](https://github.com/Efe-Bostanci/needthis-showcase)**
