@@ -10,6 +10,8 @@ From custom PCBs and 3D-printed aircraft to solo-built SaaS products. Long-term 
 
 - **[Councily.ai](https://github.com/Efe-Bostanci/councily-showcase)** Multi-agent AI council platform (solo, full-stack)
 - **[FlashMesh](https://github.com/Efe-Bostanci/flashmesh-website)** Offline Bluetooth/Wi-Fi mesh communication for disaster scenarios
+- **[Promptiy](https://github.com/Efe-Bostanci/promptiy-showcase)**
+- **[NeedThisApp](https://github.com/Efe-Bostanci/needthis-showcase)**
 - **EEE @ İstanbul Aydın Üniversitesi** Targeting MSc at İTÜ / İÜC
 
 ---
@@ -19,7 +21,6 @@ From custom PCBs and 3D-printed aircraft to solo-built SaaS products. Long-term 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
