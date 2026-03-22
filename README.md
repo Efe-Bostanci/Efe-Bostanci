@@ -1,6 +1,6 @@
 # Efe Bostancı
 
-**EEE Student · Istanbul** — Building at the intersection of embedded hardware and full-stack software.
+**EEE Student · Istanbul** Building at the intersection of embedded hardware and full-stack software.
 
 From custom PCBs and 3D-printed aircraft to solo-built SaaS products. Long-term focus: defense and aerospace systems.
 
@@ -8,9 +8,9 @@ From custom PCBs and 3D-printed aircraft to solo-built SaaS products. Long-term 
 
 ## 🛠️ What I'm Working On
 
-- **[Councily.ai](https://github.com/Efe-Bostanci/councily-showcase)** — Multi-agent AI council platform (solo, full-stack)
-- **[FlashMesh](https://github.com/Efe-Bostanci/flashmesh-website)** — Offline Bluetooth/Wi-Fi mesh communication for disaster scenarios
-- **EEE @ İstanbul Aydın Üniversitesi** — Targeting MSc at İTÜ / ODTÜ
+- **[Councily.ai](https://github.com/Efe-Bostanci/councily-showcase)** Multi-agent AI council platform (solo, full-stack)
+- **[FlashMesh](https://github.com/Efe-Bostanci/flashmesh-website)** Offline Bluetooth/Wi-Fi mesh communication for disaster scenarios
+- **EEE @ İstanbul Aydın Üniversitesi** Targeting MSc at İTÜ / İÜC
 
 ---
 
