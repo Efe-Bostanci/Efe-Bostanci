@@ -43,7 +43,6 @@ From custom PCBs and 3D-printed aircraft to solo-built SaaS products. Long-term 
 
 ![](https://github-readme-stats.vercel.app/api?username=Efe-Bostanci&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Efe-Bostanci&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Efe-Bostanci&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
