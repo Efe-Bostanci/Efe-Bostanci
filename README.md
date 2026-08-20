@@ -12,6 +12,8 @@ From custom PCB/flight-controller boards to FPV drones and 3D-printed aircraft. 
 - **[EBS-Plane](https://github.com/Efe-Bostanci/ebs-plane-showcase)** — Custom-built RC/UAV aircraft, design & flight testing
 - **5" FPV Drone** — Full build, INAV-based flight stack
 - **[Mechanical Keyboard](https://github.com/Efe-Bostanci/Mechanical-Keyboard)** — Custom PCB + 3D-printed case + firmware
+- **[LandingRoast](https://github.com/Efe-Bostanci/landing-roast)** — AI-powered landing page audit SaaS (Next.js, Supabase, Claude API)
+- **[Promptiy](https://github.com/Efe-Bostanci/promptiy-showcase)** — Solo-built SaaS product
 - **EEE @ İstanbul Aydın Üniversitesi** — Targeting MSc at İTÜ / YTÜ
 
 ---
@@ -36,8 +38,8 @@ From custom PCB/flight-controller boards to FPV drones and 3D-printed aircraft. 
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Efe-Bostanci&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Efe-Bostanci&theme=dark&hide_border=true)
+![](https://github-stats-extended.vercel.app/api?username=Efe-Bostanci&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats-eight.vercel.app?user=Efe-Bostanci&theme=dark&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Efe-Bostanci&icon=0&color=0)](https://visitcount.itsvg.in)
