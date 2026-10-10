@@ -13,6 +13,7 @@ From custom PCB/flight-controller boards to FPV drones and 3D-printed aircraft. 
 - **5" FPV Drone** — Full build, INAV-based flight stack
 - **[Mechanical Keyboard](https://github.com/Efe-Bostanci/Mechanical-Keyboard)** — Custom PCB + 3D-printed case + firmware
 - **[LandingRoast](https://github.com/Efe-Bostanci/landing-roast)** — AI-powered landing page audit SaaS (Next.js, Supabase, Claude API)
+- **[Councily](https://councily.app)** — AI-powered platform for structured council discussions and collaborative decision-making.
 - **[Promptiy](https://github.com/Efe-Bostanci/promptiy-showcase)** — Solo-built SaaS product
 - **EEE @ İstanbul Aydın Üniversitesi** — Targeting MSc at İTÜ / YTÜ
 
